@@ -1,3 +1,14 @@
+<div style="border: 3px solid red; color: red; font-weight: bold; padding: 5px;">
+This fork contains a fix for a bug in the released versions of
+react-debounce-input.
+Meanwhile a bug fix has gone into the official repository and has been released.
+<br>
+(See https://github.com/nkbt/react-debounce-input/pull/57 for details.)
+<br>
+This fork will be kept for a while since it has been referenced in a project
+to work around the bug, but will be deleted sometime.
+</div>
+
 # react-debounce-input [![npm](https://img.shields.io/npm/v/react-debounce-input.svg?style=flat-square)](https://www.npmjs.com/package/react-debounce-input)
 
 [![Gitter](https://img.shields.io/gitter/room/nkbt/help.svg?style=flat-square)](https://gitter.im/nkbt/help)
